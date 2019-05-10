@@ -1,0 +1,7 @@
+<script>
+    let name='Jeff B';
+</script>
+<presentation>
+    <p>Hello <variable>name</variable>!</p>
+    <include>signature</include>
+</presentation>
